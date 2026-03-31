@@ -40,6 +40,7 @@ Run any program:
 ```bash
 python quote_generator.py
 python password_generator.py
+number_guessing_game.py
 ```
 
 ---
