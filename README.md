@@ -1,28 +1,41 @@
 # 🚀 Mini Programs Collection
 
-A collection of simple and useful Python programs built for practice, learning, and consistency.
+A collection of simple yet practical Python programs built to improve consistency, logic-building, and real-world coding skills.
 
 ---
 
 ## 📂 Programs Included
 
-### 💡 Quote Generator
+### 💡 Quote Generator (`quote_generator.py`)
+- Generates a random motivational quote
+- Beginner-friendly
+- Uses Python `random` module
 
-* Generates a random motivational quote
-* Beginner-friendly
-* Uses Python `random` module
+---
 
-### 🔐 Password Generator
+### 🔐 Password Generator (`password_generator.py`)
+- Generates strong random passwords
+- Customizable length
+- Uses `string` and `random` modules
 
-* Generates strong random passwords
-* Customizable length
-* Uses `string` and `random` modules
+---
+
+### 🎯 Number Guessing Game (`number_guessing_game.py`)
+- User guesses a randomly generated number
+- Provides hints (too high / too low)
+- Interactive CLI-based game
+
+---
+
+### 🧠 QuizMaster CLI (`brainbyte.py`)
+- Command-line quiz game
+- Multiple questions with score tracking
+- Uses dictionary, loops, and conditions
 
 ---
 
 ## 🛠️ Tech Stack
-
-* Python 3
+- Python 3
 
 ---
 
@@ -33,34 +46,3 @@ Clone the repository:
 ```bash
 git clone https://github.com/thejas68/mini-programs.git
 cd mini-programs
-```
-
-Run any program:
-
-```bash
-python quote_generator.py
-python password_generator.py
-number_guessing_game.py
-```
-
----
-
-## 📌 Purpose
-
-This repository is part of my daily coding practice to:
-
-* Improve problem-solving skills
-* Stay consistent with coding
-* Build a strong GitHub profile
-
----
-
-## 🤝 Contributing
-
-Feel free to fork this repo and add your own mini programs!
-
----
-
-## ⭐ Support
-
-If you like this repo, consider giving it a star ⭐
